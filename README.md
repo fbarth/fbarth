@@ -12,4 +12,3 @@
 - Undergraduate AI subject: [Insper/ia_bcc](https://github.com/Insper/ia_bcc)
 - A library to help you learn AI: [Insper/ai_gym](https://github.com/Insper/ai_gym)
 - Undergraduate RL subject: [Insper/rl](https://github.com/Insper/rl)
-- Source code related to RL subject: [Insper/rl_code](https://github.com/Insper/rl_code)
